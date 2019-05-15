@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: In Math We Trust
 ---
 作者：张首晟，斯坦福大学终身教授，丹华资本创始人
