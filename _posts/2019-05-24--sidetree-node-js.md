@@ -9,7 +9,7 @@ This document focuses on the Node.js implementation of the Sidetree protocol.
 
 ## Overview 概述
 
-![Architecture diagram](./diagrams/architecture.png)
+![1_Gi1kLy6KIAf2GvaS2ixcKg.jpeg]({{site.baseurl}}/img/1_Gi1kLy6KIAf2GvaS2ixcKg.jpeg)
 
 ## Node Types 节点类型
 
