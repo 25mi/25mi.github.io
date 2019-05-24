@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 翻译：Sidetree的Node.js实现文档
 ---
 This document focuses on the Node.js implementation of the Sidetree protocol.
@@ -593,4 +593,3 @@ POST /<api-version>/
   "hash": "QmWd5PH6vyRH5kMdzZRPBnf952dbR4av3Bd7B2wBqMaAcf"
 }
 ```
-
